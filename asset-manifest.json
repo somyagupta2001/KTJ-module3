@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/KTJ-module3/static/css/main.919488e6.chunk.css",
+    "main.css": "/KTJ-module3/static/css/main.cefedb63.chunk.css",
     "main.js": "/KTJ-module3/static/js/main.d5069839.chunk.js",
     "main.js.map": "/KTJ-module3/static/js/main.d5069839.chunk.js.map",
     "runtime-main.js": "/KTJ-module3/static/js/runtime-main.1af8f83e.js",
@@ -10,14 +10,14 @@
     "static/js/3.2f198430.chunk.js": "/KTJ-module3/static/js/3.2f198430.chunk.js",
     "static/js/3.2f198430.chunk.js.map": "/KTJ-module3/static/js/3.2f198430.chunk.js.map",
     "index.html": "/KTJ-module3/index.html",
-    "static/css/main.919488e6.chunk.css.map": "/KTJ-module3/static/css/main.919488e6.chunk.css.map",
+    "static/css/main.cefedb63.chunk.css.map": "/KTJ-module3/static/css/main.cefedb63.chunk.css.map",
     "static/js/2.ec58d5dc.chunk.js.LICENSE.txt": "/KTJ-module3/static/js/2.ec58d5dc.chunk.js.LICENSE.txt",
     "static/media/App.css": "/KTJ-module3/static/media/bg1.2a1f74ba.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1af8f83e.js",
     "static/js/2.ec58d5dc.chunk.js",
-    "static/css/main.919488e6.chunk.css",
+    "static/css/main.cefedb63.chunk.css",
     "static/js/main.d5069839.chunk.js"
   ]
 }
